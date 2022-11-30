@@ -1,4 +1,6 @@
 [core]
-    remote = storage
+    remote = aws
 ['remote "storage"']
     url = C:/Users/NZ1982/0_Projects/remote/
+['remote "aws"']
+    url = s3://adsim-dvc-playground/remote/
