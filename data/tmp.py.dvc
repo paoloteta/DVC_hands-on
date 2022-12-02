@@ -1,0 +1,4 @@
+outs:
+- md5: 9e86b59ef02bd2cd153d903f766d6b58
+  size: 23
+  path: tmp.py
